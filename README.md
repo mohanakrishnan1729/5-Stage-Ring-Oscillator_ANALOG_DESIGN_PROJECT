@@ -23,7 +23,6 @@ This project involves the design and analysis of a 5-stage ring oscillator using
 - Cadence Virtuoso (Schematic, Layout, Simulation)
 - Ubuntu/Linux Environment
 
-## 👤 Author
 
 **Mohanakrishnan E**  
 BE ECE Analog VLSI Design Assignment  
